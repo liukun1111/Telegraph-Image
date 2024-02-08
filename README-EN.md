@@ -8,7 +8,7 @@ English|[中文](readme-zh.md)
 ### Preparation
 The only thing you need to prepare in advance is a Cloudflare account
 
-### Step by Step Instruction
+### Step by Step Instraction
 3 simple steps to deploy this project and have your own image hosting
 
 1.Download or fork this repository (Note: Please use fork at this time, there is some issue when using download #14)
